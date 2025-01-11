@@ -1,5 +1,5 @@
 from robin_stocks import robinhood
-from signal_sender import send_buy_request,send_sell_request
+
 
 stocks = ["ZSC"]
 
